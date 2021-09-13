@@ -1,0 +1,8 @@
+.search-form {
+  margin-bottom: 20px;
+}
+
+.found-result-container {
+  display: flex;
+  justify-content: center;
+}
